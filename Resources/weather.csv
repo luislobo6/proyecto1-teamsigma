@@ -1,0 +1,259 @@
+MES,T. MEDIA  (°C),T. MÁX  (°C),T. MÍN  (°C),V. MEDIA VIENTO,RACHAS MÁX,PRESIÓN MEDIA,LLUVIA,AÑO,CIUDAD
+1,9,16,2,11.1 km/h,61.1 km/h,1016 hPa,mm,2020,Tokyo
+2,10,18,1,12 km/h,63 km/h,1017.8 hPa,mm,2020,Tokyo
+3,12,21,1,15.5 km/h,87 km/h,1013.1 hPa,mm,2020,Tokyo
+4,15,22,9,17.3 km/h,77.8 km/h,1011.7 hPa,mm,2020,Tokyo
+5,21,27,12,15 km/h,59.3 km/h,1010.6 hPa,mm,2020,Tokyo
+6,24,30,19,14.3 km/h,59.3 km/h,1006.9 hPa,mm,2020,Tokyo
+7,25,32,19,16.1 km/h,79.6 km/h,1008.5 hPa,mm,2020,Tokyo
+8,31,35,24,15.4 km/h,40.7 km/h,1010.4 hPa,mm,2020,Tokyo
+9,26,33,18,14.4 km/h,55.6 km/h,1011.5 hPa,mm,2020,Tokyo
+10,20,26,12,12.2 km/h,38.9 km/h,1016.2 hPa,mm,2020,Tokyo
+1,8,14,2,13.2 km/h,63 km/h,1015.7 hPa,mm,2019,Tokyo
+2,9,19,0,12.1 km/h,57.4 km/h,1017.4 hPa,mm,2019,Tokyo
+3,12,23,5,13.3 km/h,61.1 km/h,1011.9 hPa,mm,2019,Tokyo
+4,15,24,5,15.3 km/h,64.8 km/h,1012.5 hPa,mm,2019,Tokyo
+5,22,29,15,16.2 km/h,57.4 km/h,1012.3 hPa,mm,2019,Tokyo
+6,23,30,16,14.8 km/h,55.6 km/h,1006.7 hPa,mm,2019,Tokyo
+7,25,32,19,13.1 km/h,48.2 km/h,1008.9 hPa,mm,2019,Tokyo
+8,30,34,24,16.6 km/h,59.3 km/h,1008 hPa,mm,2019,Tokyo
+9,27,33,20,14.1 km/h,64.8 km/h,1014.3 hPa,mm,2019,Tokyo
+10,21,30,14,16.2 km/h,90.7 km/h,1015.1 hPa,mm,2019,Tokyo
+11,15,22,5,11.4 km/h,59.3 km/h,1017.4 hPa,mm,2019,Tokyo
+12,11,19,5,10.7 km/h,90.7 km/h,1018.6 hPa,mm,2019,Tokyo
+1,8,23,-1,17.8 km/h,75.6 km/h,1024.3 hPa,mm,2020,Shanghai
+2,9,25,-1,16.5 km/h,57.6 km/h,1025.5 hPa,mm,2020,Shanghai
+3,12,25,3,18.2 km/h,57.6 km/h,1019.1 hPa,mm,2020,Shanghai
+4,15,30,6,16.5 km/h,68.3 km/h,1019 hPa,mm,2020,Shanghai
+5,22,35,14,16.5 km/h,64.8 km/h,1009.4 hPa,mm,2020,Shanghai
+6,25,34,19,14.1 km/h,61.1 km/h,1005.4 hPa,mm,2020,Shanghai
+7,27,37,20,14.6 km/h,72 km/h,1005.7 hPa,mm,2020,Shanghai
+8,30,37,23,18.7 km/h,75.6 km/h,1006.1 hPa,mm,2020,Shanghai
+9,24,34,18,14.5 km/h,50.4 km/h,1011.7 hPa,mm,2020,Shanghai
+10,20,28,11,18.4 km/h,57.6 km/h,1019.8 hPa,mm,2020,Shanghai
+1,7,14,-1,16.4 km/h,61.1 km/h,1027.7 hPa,mm,2019,Shanghai
+2,7,17,0,18.3 km/h,61.1 km/h,1024.6 hPa,mm,2019,Shanghai
+3,11,24,4,16 km/h,57.6 km/h,1019.4 hPa,mm,2019,Shanghai
+4,16,31,7,16.1 km/h,61.1 km/h,1014.3 hPa,mm,2019,Shanghai
+5,20,33,11,16 km/h,61.1 km/h,1012.2 hPa,mm,2019,Shanghai
+6,23,33,17,15.6 km/h,54.1 km/h,1006.4 hPa,mm,2019,Shanghai
+7,27,37,21,16.7 km/h,57.6 km/h,1004.4 hPa,mm,2019,Shanghai
+8,28,35,19,17.5 km/h,90 km/h,1005.1 hPa,mm,2019,Shanghai
+9,25,33,17,18.2 km/h,72 km/h,1013 hPa,mm,2019,Shanghai
+10,20,29,10,16.2 km/h,104.5 km/h,1018.9 hPa,mm,2019,Shanghai
+11,15,26,7,17.8 km/h,64.8 km/h,1022.9 hPa,mm,2019,Shanghai
+12,9,21,0,16.9 km/h,57.6 km/h,1026.1 hPa,mm,2019,Shanghai
+1,22,33,16,13.3 km/h,72.2 km/h,1015.5 hPa,mm,2020,São Paulo
+2,21,31,16,12.7 km/h,57.4 km/h,1017.4 hPa,mm,2020,São Paulo
+3,21,33,15,13 km/h,46.3 km/h,1019 hPa,mm,2020,São Paulo
+4,19,30,14,11.8 km/h,33.3 km/h,1020.3 hPa,mm,2020,São Paulo
+5,17,27,10,11.4 km/h,57.4 km/h,1020.8 hPa,mm,2020,São Paulo
+6,19,28,12,10.6 km/h,57.4 km/h,1021.7 hPa,mm,2020,São Paulo
+7,18,28,10,11.8 km/h,57.4 km/h,1023 hPa,mm,2020,São Paulo
+8,17,30,8,11.1 km/h,55.6 km/h,1022.7 hPa,mm,2020,São Paulo
+9,21,36,14,12.4 km/h,50 km/h,1020.4 hPa,mm,2020,São Paulo
+10,21,37,13,13.2 km/h,59.3 km/h,1018.7 hPa,mm,2020,São Paulo
+1,25,34,17,11.9 km/h,75.9 km/h,1018.6 hPa,mm,2019,São Paulo
+2,23,35,17,12.8 km/h,85.2 km/h,1016.6 hPa,mm,2019,São Paulo
+3,22,31,16,11.8 km/h,59.3 km/h,1018.9 hPa,mm,2019,São Paulo
+4,22,31,16,10.7 km/h,51.9 km/h,1018.2 hPa,mm,2019,São Paulo
+5,20,29,11,10.6 km/h,57.4 km/h,1019.3 hPa,mm,2019,São Paulo
+6,19,27,11,9.8 km/h,53.7 km/h,1023.2 hPa,mm,2019,São Paulo
+7,17,27,6,10.4 km/h,66.7 km/h,1022.6 hPa,mm,2019,São Paulo
+8,17,31,9,13.3 km/h,55.6 km/h,1024.5 hPa,mm,2019,São Paulo
+9,19,34,12,12.8 km/h,53.7 km/h,1020.6 hPa,mm,2019,São Paulo
+10,21,34,15,13.5 km/h,44.4 km/h,1018.4 hPa,mm,2019,São Paulo
+11,20,34,14,14.4 km/h,64.8 km/h,1016.6 hPa,mm,2019,São Paulo
+12,22,31,14,12.9 km/h,51.9 km/h,1017.6 hPa,mm,2019,São Paulo
+1,15,24,3,10.3 km/h,51.9 km/h,1027.1 hPa,mm,2020,Mexico City
+2,18,29,4,12 km/h,59.3 km/h,1026.2 hPa,mm,2020,Mexico City
+3,20,31,7,11.1 km/h,53.7 km/h,1026.9 hPa,mm,2020,Mexico City
+4,21,30,12,11.4 km/h,53.7 km/h,1026 hPa,mm,2020,Mexico City
+5,20,30,10,11.2 km/h,63 km/h,1025.8 hPa,mm,2020,Mexico City
+6,20,29,10,13 km/h,55.6 km/h,1026 hPa,mm,2020,Mexico City
+7,19,27,12,12.5 km/h,55.6 km/h,1026.4 hPa,mm,2020,Mexico City
+8,19,27,11,11.9 km/h,51.9 km/h,1026.2 hPa,mm,2020,Mexico City
+9,18,28,10,11.2 km/h,51.9 km/h,1026.2 hPa,mm,2020,Mexico City
+10,17,27,5,11.8 km/h,66.7 km/h,1026.8 hPa,mm,2020,Mexico City
+1,15,25,3,9.2 km/h,42.6 km/h,1026.7 hPa,mm,2019,Mexico City
+2,18,30,7,10.1 km/h,46.3 km/h,1025.7 hPa,mm,2019,Mexico City
+3,19,30,8,10.8 km/h,70.4 km/h,1026 hPa,mm,2019,Mexico City
+4,20,30,9,11.7 km/h,48.2 km/h,1025.2 hPa,mm,2019,Mexico City
+5,22,30,11,12.6 km/h,55.6 km/h,1024 hPa,mm,2019,Mexico City
+6,19,28,13,13.7 km/h,63 km/h,1026.4 hPa,mm,2019,Mexico City
+7,18,26,13,12.1 km/h,68.5 km/h,1027.6 hPa,mm,2019,Mexico City
+8,19,27,12,12.5 km/h,59.3 km/h,1026.9 hPa,mm,2019,Mexico City
+9,18,26,11,12.9 km/h,55.6 km/h,1026.3 hPa,mm,2019,Mexico City
+10,18,27,12,12 km/h,85.2 km/h,1024.9 hPa,mm,2019,Mexico City
+11,17,27,9,10 km/h,46.3 km/h,1027.1 hPa,mm,2019,Mexico City
+12,15,25,4,9.1 km/h,44.4 km/h,1026.8 hPa,mm,2019,Mexico City
+1,13,21,6,17.5 km/h,#NAME?,1020.6 hPa,mm,2020,Cairo
+2,15,26,9,14 km/h,#NAME?,1019.3 hPa,mm,2020,Cairo
+3,18,30,10,18.8 km/h,#NAME?,1013.5 hPa,mm,2020,Cairo
+4,21,34,14,17.3 km/h,#NAME?,1013.7 hPa,mm,2020,Cairo
+5,26,43,17,18.4 km/h,#NAME?,1013.2 hPa,mm,2020,Cairo
+6,28,42,19,17.6 km/h,#NAME?,1010.6 hPa,mm,2020,Cairo
+7,29,37,16,15 km/h,#NAME?,1007.1 hPa,mm,2020,Cairo
+8,30,39,23,13.8 km/h,#NAME?,1007.3 hPa,mm,2020,Cairo
+9,29,38,10,18.1 km/h,#NAME?,1011 hPa,mm,2020,Cairo
+10,26,37,19,18.3 km/h,#NAME?,1014.9 hPa,mm,2020,Cairo
+1,25,34,17,9.7 km/h,#NAME?,1013.4 hPa,mm,2020,Mumbai
+2,28,37,20,10.1 km/h,37 km/h,1012.7 hPa,mm,2020,Mumbai
+3,28,37,21,10.7 km/h,42.6 km/h,1011.2 hPa,mm,2020,Mumbai
+4,30,37,26,10.8 km/h,37 km/h,1009.5 hPa,mm,2020,Mumbai
+5,31,36,28,13.1 km/h,38.9 km/h,1007.2 hPa,mm,2020,Mumbai
+6,29,33,23,12.4 km/h,72.2 km/h,1003.6 hPa,mm,2020,Mumbai
+7,28,33,25,11.5 km/h,63 km/h,1003.2 hPa,mm,2020,Mumbai
+8,28,32,24,16.5 km/h,70.4 km/h,1003.2 hPa,mm,2020,Mumbai
+9,29,34,25,8.9 km/h,55.6 km/h,1005.6 hPa,mm,2020,Mumbai
+10,29,35,24,8.4 km/h,44.4 km/h,1006.3 hPa,mm,2020,Mumbai
+1,17,27,6,13.7 km/h,46.3 km/h,1017.4 hPa,mm,2020,Karachi
+2,22,34,10,11.9 km/h,#NAME?,1016.3 hPa,mm,2020,Karachi
+3,25,35,3,13.4 km/h,46.3 km/h,1012.5 hPa,mm,2020,Karachi
+4,29,40,20,13.6 km/h,#NAME?,1009.9 hPa,mm,2020,Karachi
+5,31,40,27,18.9 km/h,55.6 km/h,1005.6 hPa,mm,2020,Karachi
+6,33,38,26,17.8 km/h,92.6 km/h,1000.8 hPa,mm,2020,Karachi
+7,32,42,25,18.4 km/h,46.3 km/h,999.6 hPa,mm,2020,Karachi
+8,31,39,24,17.1 km/h,46.3 km/h,998.7 hPa,mm,2020,Karachi
+9,30,37,26,14.5 km/h,#NAME?,1004.6 hPa,mm,2020,Karachi
+10,29,40,17,11.5 km/h,#NAME?,1007.7 hPa,mm,2020,Karachi
+1,19,29,5,10.6 km/h,#NAME?,1018.3 hPa,mm,2019,Karachi
+2,21,31,10,14.1 km/h,#NAME?,1016 hPa,mm,2019,Karachi
+3,25,38,14,11.3 km/h,#NAME?,1013.4 hPa,mm,2019,Karachi
+4,29,46,22,14.9 km/h,#NAME?,1008.7 hPa,mm,2019,Karachi
+5,31,41,23,17.6 km/h,46.3 km/h,1006.2 hPa,mm,2019,Karachi
+6,33,41,27,17.7 km/h,46.3 km/h,1000.9 hPa,mm,2019,Karachi
+7,31,38,26,23.6 km/h,426 km/h,999.2 hPa,mm,2019,Karachi
+8,29,36,24,14.2 km/h,#NAME?,1000.9 hPa,mm,2019,Karachi
+9,30,40,24,13.5 km/h,46.3 km/h,1004.8 hPa,mm,2019,Karachi
+10,29,37,20,11.3 km/h,#NAME?,1011.4 hPa,mm,2019,Karachi
+11,24,36,14,13.4 km/h,#NAME?,1014.7 hPa,mm,2019,Karachi
+12,19,30,3,14 km/h,46.3 km/h,1017.3 hPa,mm,2019,Karachi
+1,5,19,-5,11.1 km/h,94.5 km/h,1019.9 hPa,mm,2020,New York City
+2,5,17,-7,12.4 km/h,87 km/h,1016.8 hPa,mm,2020,New York City
+3,9,23,-3,12.6 km/h,79.6 km/h,1020.1 hPa,mm,2020,New York City
+4,10,20,3,11.2 km/h,83.3 km/h,1011.8 hPa,mm,2020,New York City
+5,16,28,2,10.3 km/h,68.5 km/h,1017.3 hPa,mm,2020,New York City
+6,23,32,12,9.4 km/h,94.5 km/h,1015.7 hPa,mm,2020,New York City
+7,27,35,19,9.9 km/h,92.6 km/h,1014.2 hPa,mm,2020,New York City
+8,26,33,19,10.5 km/h,75.9 km/h,1014.5 hPa,mm,2020,New York City
+9,22,32,12,10 km/h,66.7 km/h,1019.2 hPa,mm,2020,New York City
+10,17,24,9,10.4 km/h,61.1 km/h,1019.6 hPa,mm,2020,New York City
+1,24,35,15,15.8 km/h,59.3 km/h,1011.5 hPa,mm,2020,Buenos Aires
+2,24,33,13,14.4 km/h,59.3 km/h,1013.3 hPa,mm,2020,Buenos Aires
+3,24,31,17,14.4 km/h,50 km/h,1014.5 hPa,mm,2020,Buenos Aires
+4,18,25,11,13.2 km/h,61.1 km/h,1017.6 hPa,mm,2020,Buenos Aires
+5,15,27,8,11.2 km/h,48.2 km/h,1016.6 hPa,mm,2020,Buenos Aires
+6,13,22,3,11.1 km/h,51.9 km/h,1015.8 hPa,mm,2020,Buenos Aires
+7,11,22,3,10.5 km/h,46.3 km/h,1017.3 hPa,mm,2020,Buenos Aires
+8,13,22,3,12 km/h,48.2 km/h,1017.9 hPa,mm,2020,Buenos Aires
+9,14,26,7,14.3 km/h,63 km/h,1018 hPa,mm,2020,Buenos Aires
+10,17,27,7,17.3 km/h,64.8 km/h,1017 hPa,mm,2020,Buenos Aires
+1,25,34,14,15.4 km/h,53.7 km/h,1011.5 hPa,mm,2019,Buenos Aires
+2,24,34,14,12.8 km/h,48.2 km/h,1013.1 hPa,mm,2019,Buenos Aires
+3,21,30,12,13.7 km/h,50 km/h,1016.3 hPa,mm,2019,Buenos Aires
+4,19,32,13,13.4 km/h,57.4 km/h,1015.7 hPa,mm,2019,Buenos Aires
+5,16,26,10,13.7 km/h,55.6 km/h,1016.9 hPa,mm,2019,Buenos Aires
+6,15,22,6,12.7 km/h,61.1 km/h,1015.1 hPa,mm,2019,Buenos Aires
+7,12,26,2,11.1 km/h,46.3 km/h,1019.1 hPa,mm,2019,Buenos Aires
+8,12,22,3,12.3 km/h,48.2 km/h,1021.6 hPa,mm,2019,Buenos Aires
+9,15,30,4,13.7 km/h,55.6 km/h,1018 hPa,mm,2019,Buenos Aires
+10,17,29,8,16.6 km/h,77.8 km/h,1015.7 hPa,mm,2019,Buenos Aires
+11,22,32,14,15.7 km/h,61.1 km/h,1012.7 hPa,mm,2019,Buenos Aires
+12,23,36,12,14 km/h,53.7 km/h,1011.2 hPa,mm,2019,Buenos Aires
+1,7,14,-2,18.7 km/h,85.2 km/h,1023.9 hPa,mm,2020,Istanbul
+2,8,17,-1,17.6 km/h,74.1 km/h,1017.8 hPa,mm,2020,Istanbul
+3,10,23,2,16.4 km/h,68.5 km/h,1016.5 hPa,mm,2020,Istanbul
+4,12,23,4,17.6 km/h,79.6 km/h,1016.6 hPa,mm,2020,Istanbul
+5,17,30,8,12.9 km/h,53.7 km/h,1015.2 hPa,mm,2020,Istanbul
+6,23,31,14,12.3 km/h,61.1 km/h,1010.1 hPa,mm,2020,Istanbul
+7,26,34,17,19.3 km/h,66.7 km/h,1011.9 hPa,mm,2020,Istanbul
+8,26,33,18,17.8 km/h,57.4 km/h,1011.3 hPa,mm,2020,Istanbul
+9,24,32,16,16.7 km/h,74.1 km/h,1014.8 hPa,mm,2020,Istanbul
+10,20,31,13,10.9 km/h,61.1 km/h,1016.4 hPa,mm,2020,Istanbul
+1,8,17,-2,18.3 km/h,70.4 km/h,1012 hPa,mm,2019,Istanbul
+2,7,19,0,18.6 km/h,63 km/h,1020.8 hPa,mm,2019,Istanbul
+3,10,21,0,16.4 km/h,66.7 km/h,1018 hPa,mm,2019,Istanbul
+4,13,26,4,14.2 km/h,55.6 km/h,1015.9 hPa,mm,2019,Istanbul
+5,19,33,11,12.5 km/h,61.1 km/h,1012.2 hPa,mm,2019,Istanbul
+6,25,33,18,15.7 km/h,50 km/h,1013.5 hPa,mm,2019,Istanbul
+7,25,33,16,15.9 km/h,48.2 km/h,1011.4 hPa,mm,2019,Istanbul
+8,26,33,17,19.5 km/h,59.3 km/h,1013.9 hPa,mm,2019,Istanbul
+9,22,30,12,16.2 km/h,61.1 km/h,1015.9 hPa,mm,2019,Istanbul
+10,19,30,12,13.9 km/h,77.8 km/h,1017.9 hPa,mm,2019,Istanbul
+11,17,24,8,13.1 km/h,61.1 km/h,1016.2 hPa,mm,2019,Istanbul
+12,10,18,3,17 km/h,83.3 km/h,1017.2 hPa,mm,2019,Istanbul
+1,27,32,23,9.7 km/h,48.2 km/h,1012.7 hPa,mm,2020,Manila
+2,27,33,21,11.1 km/h,53.7 km/h,1014.8 hPa,mm,2020,Manila
+3,29,35,23,11.5 km/h,42.6 km/h,1012.1 hPa,mm,2020,Manila
+4,30,36,24,11.6 km/h,42.6 km/h,1011.5 hPa,mm,2020,Manila
+5,31,37,25,9.4 km/h,57.4 km/h,1009.3 hPa,mm,2020,Manila
+6,30,36,25,8.7 km/h,46.3 km/h,1007.7 hPa,mm,2020,Manila
+7,30,37,24,8.8 km/h,44.4 km/h,1008.5 hPa,mm,2020,Manila
+8,28,34,24,10 km/h,51.9 km/h,1008.2 hPa,mm,2020,Manila
+9,29,35,25,8.7 km/h,33.3 km/h,1008.3 hPa,mm,2020,Manila
+10,28,35,24,7.8 km/h,51.9 km/h,1007.1 hPa,mm,2020,Manila
+1,0,4,-7,19.5 km/h,57.6 km/h,1010.8 hPa,mm,2020,Moscow
+2,-1,8,-16,18.5 km/h,64.8 km/h,1004.3 hPa,mm,2020,Moscow
+3,3,17,-9,17.3 km/h,79.3 km/h,1014.9 hPa,mm,2020,Moscow
+4,5,16,-9,17 km/h,64.8 km/h,1008.3 hPa,mm,2020,Moscow
+5,11,24,0,14.9 km/h,61.1 km/h,1011.1 hPa,mm,2020,Moscow
+6,19,30,8,14.3 km/h,57.6 km/h,1015.7 hPa,mm,2020,Moscow
+7,18,30,9,13.5 km/h,79.3 km/h,1011.5 hPa,mm,2020,Moscow
+8,17,30,8,12.3 km/h,46.9 km/h,1013.7 hPa,mm,2020,Moscow
+9,13,24,5,16.4 km/h,57.6 km/h,1017.1 hPa,mm,2020,Moscow
+10,10,19,0,14.9 km/h,64.8 km/h,1017.7 hPa,mm,2020,Moscow
+6,18,18,18,0 km/h,#NAME?,1015 hPa,mm,2019,Lima
+12,20,20,20,13 km/h,#NAME?,0 hPa,mm,2019,Lima
+1,29,35,22,9.3 km/h,#NAME?,1011.9 hPa,mm,2020,Bangkok
+2,29,36,23,10.9 km/h,42.6 km/h,1012.8 hPa,mm,2020,Bangkok
+3,31,39,23,13.8 km/h,72.2 km/h,1009.9 hPa,mm,2020,Bangkok
+4,31,38,24,12.2 km/h,79.6 km/h,1010.2 hPa,mm,2020,Bangkok
+5,31,38,25,11.2 km/h,57.4 km/h,1007.8 hPa,mm,2020,Bangkok
+6,30,36,24,10.7 km/h,59.3 km/h,1007.1 hPa,mm,2020,Bangkok
+7,30,36,24,10.1 km/h,57.4 km/h,1006.9 hPa,mm,2020,Bangkok
+8,29,36,24,11.9 km/h,66.7 km/h,1006.4 hPa,mm,2020,Bangkok
+9,29,35,24,9.2 km/h,55.6 km/h,1007.3 hPa,mm,2020,Bangkok
+10,27,34,22,9 km/h,46.3 km/h,1007.6 hPa,mm,2020,Bangkok
+1,1,12,-8,8.2 km/h,50 km/h,1023.2 hPa,mm,2020,Seoul
+2,2,15,-12,9.8 km/h,63 km/h,1024.4 hPa,mm,2020,Seoul
+3,7,21,-5,12.3 km/h,72.2 km/h,1017.4 hPa,mm,2020,Seoul
+4,11,23,-1,13.7 km/h,72.2 km/h,1016.8 hPa,mm,2020,Seoul
+5,18,29,7,10.5 km/h,66.7 km/h,1009.7 hPa,mm,2020,Seoul
+6,23,35,13,10.2 km/h,63 km/h,1005.7 hPa,mm,2020,Seoul
+7,24,32,18,10.8 km/h,61.1 km/h,1006.4 hPa,mm,2020,Seoul
+8,26,34,22,12 km/h,92.6 km/h,1007.8 hPa,mm,2020,Seoul
+9,21,31,12,10.8 km/h,75.9 km/h,1011.7 hPa,mm,2020,Seoul
+10,14,24,3,9 km/h,42.6 km/h,1020.1 hPa,mm,2020,Seoul
+1,-2,8,-12,8.3 km/h,35.2 km/h,1026.3 hPa,mm,2019,Seoul
+2,0,13,-11,8.7 km/h,35.2 km/h,1024.5 hPa,mm,2019,Seoul
+3,6,16,-5,10.5 km/h,55.6 km/h,1017.2 hPa,mm,2019,Seoul
+4,11,28,-2,10.2 km/h,57.4 km/h,1014.8 hPa,mm,2019,Seoul
+5,19,32,5,11.6 km/h,59.3 km/h,1011.4 hPa,mm,2019,Seoul
+6,22,31,12,9.8 km/h,46.3 km/h,1006.9 hPa,mm,2019,Seoul
+7,26,36,18,11.2 km/h,59.3 km/h,1005.8 hPa,mm,2019,Seoul
+8,27,36,17,9.5 km/h,63 km/h,1006.4 hPa,mm,2019,Seoul
+9,22,30,11,9.9 km/h,109.3 km/h,1014.3 hPa,mm,2019,Seoul
+10,16,29,2,9.2 km/h,48.2 km/h,1018.7 hPa,mm,2019,Seoul
+11,7,21,-5,8.8 km/h,53.7 km/h,1022.4 hPa,mm,2019,Seoul
+12,1,14,-11,9.7 km/h,46.3 km/h,1025.5 hPa,mm,2019,Seoul
+1,8,14,1,15.4 km/h,70.4 km/h,1019.4 hPa,mm,2020,London
+2,9,15,2,23.5 km/h,79.6 km/h,1010.2 hPa,mm,2020,London
+3,8,16,2,17.6 km/h,83.3 km/h,1016.6 hPa,mm,2020,London
+4,12,24,2,14.1 km/h,55.6 km/h,1017.2 hPa,mm,2020,London
+5,15,28,4,14.8 km/h,98.2 km/h,1021.6 hPa,mm,2020,London
+6,17,31,9,15.3 km/h,59.3 km/h,1012.4 hPa,mm,2020,London
+7,19,36,12,15.4 km/h,64.8 km/h,1016.3 hPa,mm,2020,London
+8,20,35,11,14.6 km/h,70.4 km/h,1012.1 hPa,mm,2020,London
+9,17,29,8,14 km/h,66.7 km/h,1016.6 hPa,mm,2020,London
+10,13,19,7,14.4 km/h,74.1 km/h,1008.8 hPa,mm,2020,London
+1,8,16,-2,9.1 km/h,66.7 km/h,1025.4 hPa,mm,2020,Madrid
+2,12,23,3,8.1 km/h,59.3 km/h,1026.5 hPa,mm,2020,Madrid
+3,12,24,2,13.1 km/h,87 km/h,1017 hPa,mm,2020,Madrid
+4,14,23,2,9.8 km/h,51.9 km/h,1015.2 hPa,mm,2020,Madrid
+5,20,33,9,9.9 km/h,51.9 km/h,1017.7 hPa,mm,2020,Madrid
+6,23,38,9,11.6 km/h,59.3 km/h,1015.8 hPa,mm,2020,Madrid
+7,29,40,18,9.8 km/h,59.3 km/h,1017.3 hPa,mm,2020,Madrid
+8,26,39,11,9.3 km/h,55.6 km/h,1016.4 hPa,mm,2020,Madrid
+9,22,34,9,9.4 km/h,57.4 km/h,1019 hPa,mm,2020,Madrid
+10,15,28,4,10.6 km/h,68.5 km/h,1017.7 hPa,mm,2020,Madrid
