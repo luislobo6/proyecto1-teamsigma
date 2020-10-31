@@ -1,0 +1,127 @@
+#,City,Country,Population,Land area (in sqKm),Density (people per sqKm)
+1,Mumbai,India,14350000,484,29650
+2,Kolkata,India,12700000,531,23900
+3,Karachi,Pakistan,9800000,518,18900
+4,Lagos,Nigeria,13400000,738,18150
+5,Shenzhen,China,8000000,466,17150
+6,Seoul,South Korea,17500000,1049,16700
+7,Taipei,Taiwan,5700000,376,15200
+8,Chennai,India,5950000,414,14350
+9,Bogota,Colombia,7000000,518,13500
+10,Shanghai,China,10000000,746,13400
+11,Lima,Peru,7000000,596,11750
+12,Beijing,China,8614000,748,11500
+13,Delhi,India,14300000,1295,11050
+14,Kinshasa,Congo,5000000,469,10650
+15,Manila,Philippines,14750000,1399,10550
+16,Tehran,Iran,7250000,686,10550
+17,Jakarta,Indonesia,14250000,1360,10500
+18,Tianjin,China,4750000,453,10500
+19,Bangalore,India,5400000,534,10100
+20,Ho Chi Minh City,Vietnam,4900000,518,9450
+21,Cairo,Egypt,12200000,1295,9400
+22,Baghdad,Iraq,5500000,596,9250
+23,Shenyang,China,4200000,453,9250
+24,Hyderabad,India,5300000,583,9100
+25,São Paulo,Brazil,17700000,1968,9000
+26,St Petersburg,Russia,5300000,622,8550
+27,Mexico City,Mexico,17400000,2072,8400
+28,Santiago,Chile,5425000,648,8400
+29,Singapore,Singapore,4000000,479,8350
+30,Lahore,Pakistan,5100000,622,8200
+31,Recife,Brazil,3025000,376,8050
+32,Istanbul,Turkey,9000000,1166,7700
+33,Dalian,China,2750000,389,7100
+34,Khartoum,Sudan,4000000,583,6850
+35,Rio de Janeiro,Brazil,10800000,1580,6850
+36,Monterey,Mexico,3200000,479,6700
+37,Bangkok,Thailand,6500000,1010,6450
+38,Osaka/Kobe/Kyoto,Japan,16425000,2564,6400
+39,Guadalajara,Mexico,3500000,596,5900
+40,Athens,Greece,3685000,684,5400
+41,Ankara,Turkey,3100000,583,5300
+42,Madrid,Spain,4900000,945,5200
+43,London,UK,8278000,1623,5100
+44,Tel Aviv,Israel,2300000,453,5050
+45,Sapporo,Japan,2075000,414,5000
+46,Buenos Aires,Argentina,11200000,2266,4950
+47,Moscow,Russia,10500000,2150,4900
+48,Barcelona,Spain,3900000,803,4850
+49,Porto Alegre,Brazil,2800000,583,4800
+50,Tokyo,Japan,33200000,6993,4750
+51,Belo Horizonte,Brazil,4000000,868,4600
+52,Fortaleza,Brazil,2650000,583,4550
+53,Warsaw,Poland,2000000,466,4300
+54,Tashkent,Uzbekistan,2200000,531,4150
+55,Naples,Italy,2400000,583,4100
+56,Katowice,Poland,2200000,544,4050
+57,Leeds/Bradford,UK,1499000,370,4050
+58,Manchester,UK,2245000,558,4000
+59,CapeTown,South Africa,2700000,686,3950
+60,Fukuoka,Japan,2150000,544,3950
+61,Taichung,Taiwan,2000000,510,3900
+62,Baku/Sumqayit,Azerbaijan,2100000,544,3850
+63,Curitiba,Brazil,2500000,648,3850
+64,Birmingham,UK,2284000,600,3800
+65,Berlin,Germany,3675000,984,3750
+66,Riyadh,Saudi Arabia,4000000,1101,3650
+67,Campinas,Brazil,1750000,492,3550
+68,Jeddah,Saudi Arabia,2750000,777,3550
+69,Paris,France,9645000,2723,3550
+70,Durban,South Africa,2900000,829,3500
+71,Vienna,Austria,1550000,453,3400
+72,Accra,Ghana,1500000,453,3300
+73,Glasgow,UK,1200000,368,3250
+74,Nagoya,Japan,9000000,2875,3150
+75,Quito,Ecuador,1500000,479,3150
+76,Donetsk,Ukraine,1400000,451,3100
+77,Goiania,Brazil,1475000,479,3100
+78,Munich,Germany,1600000,518,3100
+79,Stuttgart,Germany,1250000,414,3000
+80,Dublin,Ireland,1075000,365,2950
+81,Kuwait,Kuwait,1600000,544,2950
+82,Nizhni Novgorod,Russia,1500000,505,2950
+83,Rome,Italy,2500000,842,2950
+84,Phnom Phen,Cambodia,1500000,518,2900
+85,Beirut,Lebanon,1800000,648,2800
+86,Brasilia,Brazil,1625000,583,2800
+87,Essen/Düsseldorf,Germany,7350000,2642,2800
+88,Lumumbashi,Congo,1200000,427,2800
+89,Kuala Lumpur,Malaysia,4400000,1606,2750
+90,Los Angeles,USA,11789000,4320,2750
+91,Milan,Italy,4250000,1554,2750
+92,Pretoria,South Africa,1850000,673,2750
+93,Stockholm,Sweden,1400000,518,2700
+94,Turin,Italy,1350000,500,2700
+95,Dubai,UAE,1900000,712,2650
+96,Porto,Portugal,1035000,389,2650
+97,Toronto,Canada,4367000,1655,2650
+98,Budapest,Hungary,1800000,702,2550
+99,Lisbon,Portugal,2250000,881,2550
+100,Johannesburg/East Rand,South Africa,6000000,2396,2500
+101,Rotterdam,Netherlands,1325000,531,2500
+102,Harare,Zimbabwe,1750000,712,2450
+103,Cologne/Bonn,Germany,1960000,816,2400
+104,San Francisco/Oakland ,USA,3229000,1365,2350
+105,Frankfurt,Germany,2260000,984,2300
+106,Hamburg,Germany,1925000,829,2300
+107,San Jose,USA,1538000,674,2300
+108,Arabia,Saudi,1525000,673,2250
+109,Brussels,Belgium,1570000,712,2200
+110,Lille,France,1050000,474,2200
+111,Helsinki,Finland,1000000,479,2100
+112,Port Elizabeth,South Africa,900000,427,2100
+113,Sydney,Australia,3502000,1687,2100
+114,New York,USA,17800000,8683,2050
+115,Auckland,New Zealand,1050000,531,2000
+116,New Orleans,USA,1009000,512,1950
+117,Copenhagen,Denmark,1525000,816,1850
+118,Montreal.,Canada,3216000,1740,1850
+119,Honolulu,USA,718000,399,1800
+120,Las Vegas,USA,1314000,741,1750
+121,Miami,USA,4919000,2891,1700
+122,Ottawa/Hull,Canada,828000,490,1700
+123,Vancouver,Canada,1830000,1120,1650
+124,Antwerp,Belgium,915000,596,1550
+125,Denver,USA,1985000,1292,1550
+126,Dhaka,India,8906000,306.4,23234

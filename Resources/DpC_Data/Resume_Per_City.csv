@@ -1,0 +1,21 @@
+CITY,COUNTRY, GDP , GDP Per Capita ,Density (people per sqKm),Deaths per City,
+Tokyo, Japan," 1,617,000 "," 68,776 "," 4,750.00 ",445,
+Delhi, India," 293,637 "," 12,747 "," 11,050.00 ","6,312",
+Shanghai, China," 594,005 "," 24,065 "," 13,400.00 ",7,
+São Paulo, Brazil," 430,510 "," 20,650 "," 9,000.00 ","38,885",
+Mexico City, Mexico," 403,561 "," 19,239 "," 8,400.00 ","11,416",
+Cairo, Egypt," 102,165 "," 7,843 "," 9,400.00 ","6,222",Total Egypt
+Mumbai, India," 150,853 "," 7,005 "," 29,650.00 ","10,009",
+Dhaka, Bangladesh," 210,000 "," 12,339 "," 23,234.00 ","5,858",Total Bangladesh
+New York, United States," 1,403,463 "," 69,915 "," 2,050.00 ","23,978",
+Karachi, Pakistan," 164,000 "," 6,000 "," 18,900.00 ",149,
+Buenos Aires, Argentina," 315,885 "," 23,606 "," 4,950.00 ","6,458",
+Istanbul, Turkey," 348,721 "," 24,867 "," 7,700.00 ","9,950",Total
+Manila, Philippines," 182,842 "," 14,222 "," 10,550.00 ","3,292",
+Lagos, Nigeria," 33,679 "," 6,055.00 "," 18,150.00 ",207,
+Moscow, Russia," 553,318 "," 45,803 "," 4,900.00 ","6,121",
+Lima, Peru," 176,447 "," 16,530 "," 11,750.00 ","15,357",
+Bangkok, Thailand," 306,765 "," 19,705 "," 6,450.00 ",59,
+Seoul, South Korea," 845,906 "," 34,355 "," 16,700.00 ",57,
+London, United Kingdom," 835,658 "," 57,157 "," 5,100.00 ","6,885",
+Madrid,Europe," 262,335 "," 39,288 "," 5,200.00 ","10,247",

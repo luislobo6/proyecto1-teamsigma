@@ -1,0 +1,303 @@
+Ranking,Name,Coun,Continent,GDP,GDP per Capita
+1,Tokyo, Japon,Asia,1617000,68776
+2,New York, Estados Unidos,America,1403463,69915
+3,Los Ángeles, Estados Unidos,America,860452,65082
+4,Seoul, Corea del Sur,Asia,845906,34355
+5,London, Reino Unido,Europa,835658,57157
+6,Paris, Francia,Europa,715080,57241
+7,Osaka, Japon,Asia,671295,35902
+8,Shanghai, China,Asia,594005,24065
+9,Chicago, Estados Unidos,America,563188,58861
+10,Moscow, Rusia,Europa,553318,45803
+11,Pekin, China,Asia,506137,23390
+12,Colonia, Alemania,Europa,485218,41763
+13,Houston, Estados Unidos,America,483184,74926
+14,Washington D. C., Estados Unidos,America,442212,73017
+15,São Paulo, Brasil,America,430510,20650
+16,Hong Kong, China,Asia,416047,57244
+17,Dallas, Estados Unidos,America,412674,59483
+18,Mexico City, Mexico,America,403561,19239
+19,Canton, China,Asia,380264,29014
+20,Tianjin, China,Asia,371973,24224
+21,Singapur, Singapur,Asia,365928,66864
+22,Nagoya, Japon,Asia,363751,40144
+23,Shenzhen, China,Asia,363228,33731
+24,Boston, Estados Unidos,America,360110,76204
+25,Istanbul, Turquia,Europa,348721,24867
+26,Filadelfia, Estados Unidos,America,346455,57166
+27,Suzhou, China,Asia,339028,52020
+28,San Francisco, Estados Unidos,America,331024,72390
+29,Taipei, Taiwan,Asia,327295,46102
+30,Yakarta, Indonesia,Asia,321315,9984
+31,Ámsterdam, Paises Bajos,Europa,320600,45265
+32,Buenos Aires, Argentina,America,315885,23606
+33,Chongqing, China,Asia,315581,10516
+34,Milan, Italia,Europa,312108,41147
+35,Bangkok, Tailandia,Asia,306765,19705
+36,Busan, Corea del Sur,Asia,296510,38602
+37,Atlanta, Estados Unidos,America,294420,52609
+38,Delhi, India,Asia,293637,12747
+39,Toronto, Canada,America,276313,45771
+40,Seattle, Estados Unidos,America,267473,73012
+41,Miami, Estados Unidos,America,262697,44480
+42,Madrid, España,Europa,262335,39288
+43,Bruselas, Belgica,Europa,254327,46298
+44,Chengdu, China,Asia,233525,16423
+45,Wuhan, China,Asia,231551,22724
+46,Frankfurt, Alemania,Europa,229985,51645
+47,Sidney, Australia,Oceania,223413,46344
+48,Munich, Alemania,Europa,219943,56322
+49,Hangzhou, China,Asia,219509,24637
+50,Wuxi, China,Asia,211458,44760
+51,Minneapolis, Estados Unidos,America,211398,60544
+52,Qingdao, China,Asia,208691,23281
+53,Detroit, Estados Unidos,America,207538,48421
+54,Phoenix, Estados Unidos,America,207065,46430
+55,Nanjing, China,Asia,202695,31434
+56,San Diego, Estados Unidos,America,202490,62295
+57,Dalian, China,Asia,198805,33568
+58,Fukuoka, Japon,Asia,193340,34822
+59,Shenyang, China,Asia,189304,26020
+60,Changsha, China,Asia,186412,25143
+61,Foshan, China,Asia,184543,24870
+62,Viena, Austria,Europa,183712,48546
+63,Manila, Filipinas,Asia,182842,14222
+64,Ningbo, China,Asia,178985,23153
+65,Melbourne, Australia,Oceania,178392,40244
+66,Abu Dhabi, Emiratos Árabes Unidos,Asia,178256,61009
+67,Rio de Janeiro, Brasil,America,176630,14176
+68,Lima, Peru,America,176447,16530
+69,Baltimore, Estados Unidos,America,173747,62291
+70,Kuala Lumpur, Malasia,Asia,171772,28076
+71,Santiago de Chile, Chile,America,171436,23929
+72,Barcelona, España,Europa,171032,36157
+73,Denver, Estados Unidos,America,169737,61795
+74,Kuwait, Kuwait,Asia,166452,55171
+75,Riad, Arabia Saudita,Asia,163476,22139
+76,Roma, Italia,Europa,163243,38025
+77,Tangshan, China,Asia,162320,20874
+78,Hamburgo, Alemania,Europa,161437,49757
+79,Jeddah, Arabia Saudita,Asia,160617,21452
+80,San Jose, Estados Unidos,America,160339,82414
+81,Bogota, Colombia,America,159850,17497
+82,Portland, Estados Unidos,America,158544,67639
+83,Stuttgart, Alemania,Europa,157787,49679
+84,Berlin, Alemania,Europa,157706,36259
+85,Zhengzhou, China,Asia,155969,14907
+86,Montreal, Canada,America,155905,38867
+87,Riverside, Estados Unidos,America,154904,34917
+88,Tel Aviv, Israel,Asia,153297,42614
+89,Mumbai, India,Asia,150853,7005
+90,Yantai, China,Asia,149022,21117
+91,Estocolmo, Suecia,Europa,142953,56250
+92,Brasilia, Brasil,America,141916,35689
+93,Dongguan, China,Asia,141129,16660
+94,Varsovia, Polonia,Europa,141096,48681
+95,San Luis, Estados Unidos,America,140584,50070
+96,Pittsburgh, Estados Unidos,America,138429,58615
+97,Karlsruhe, Alemania,Europa,137071,44476
+98,Jinan, China,Asia,136811,19488
+99,Perth, Australia,Oceania,134021,65651
+100,Shijiazhuang, China,Asia,130538,12405
+101,Tampa, Estados Unidos,America,130314,44999
+102,Atenas, Grecia,Europa,129623,32484
+103,Nantong, China,Asia,128320,17441
+104,Harbin, China,Asia,127918,12865
+105,Sacramento, Estados Unidos,America,127401,56928
+106,Copenhague, Dinamarca,Europa,127001,42220
+107,Charlotte, Estados Unidos,America,126156,53142
+108,Changchun, China,Asia,124455,16413
+109,Xi'an, China,Asia,124186,14473
+110,Monterrey, Mexico,America,122896,28290
+111,Katowice, Polonia,Europa,122321,23824
+112,Birmingham, Reino Unido,Europa,121067,31572
+113,Hefei, China,Asia,120875,21576
+114,San Petersburgo, Rusia,Europa,119613,23361
+115,Fuzhou, China,Asia,117441,17743
+116,Orlando, Estados Unidos,America,116233,50410
+117,Cleveland, Estados Unidos,America,115142,55876
+118,Taichung, Taiwan,Asia,114701,41877
+119,Kaohsiung, Taiwan,Asia,113647,40534
+120,Indianapolis, Estados Unidos,America,113606,57511
+121,Xuzhou, China,Asia,113173,13107
+122,Cincinnati, Estados Unidos,America,110897,51677
+123,Changzhou, China,Asia,110874,30205
+124,Vancouver, Canada,America,109805,44337
+125,Zurich, Suiza,Europa,109065,56666
+126,Columbus, Estados Unidos,America,108904,54780
+127,Austin, Estados Unidos,America,107364,55420
+128,Kansas City, Estados Unidos,America,105945,51157
+129,Ankara, Turquia,Europa,104863,21076
+130,San Antonio, Estados Unidos,America,102771,44232
+131,Cairo, Egipto,África,102165,7843
+132,Wenzhou, China,Asia,101941,11008
+133,Hartford, Estados Unidos,America,101150,83088
+134,Zibo, China,Asia,100274,21681
+135,Aachen, Belgica,Europa,99728,33054
+136,Lille, Francia,Europa,98484,30259
+137,Daqing, China,Asia,98451,35127
+138,Budapest, Hungria,Europa,97957,34519
+139,Calgary, Canada,America,97882,69826
+140,Lyon, Francia,Europa,97006,43316
+141,Brisbane, Australia,Oceania,96621,42103
+142,Lisboa, Portugal,Europa,96282,32434
+143,Nanchang, China,Asia,95990,18516
+144,Nashville, Estados Unidos,America,94968,53193
+145,Baotou, China,Asia,94124,33838
+146,Las Vegas, Estados Unidos,America,93858,45744
+147,Manchester, Reino Unido,Europa,92260,35029
+148,Virginia Beach, Estados Unidos,America,92109,53661
+149,Eindhoven, Paises Bajos,Europa,91539,42729
+150,Dublin, Irlanda,Europa,90137,51319
+151,Praga, Republica Checa,Europa,89181,46947
+152,Kunming, China,Asia,88631,13418
+153,Taoyuan, Taiwan,Asia,86782,42168
+154,Milwaukee, Estados Unidos,America,86548,54915
+155,Napoles, Italia,Europa,85476,19451
+156,Belo Horizonte, Brasil,America,84686,15134
+157,Dongying, China,Asia,83667,39952
+158,Edmonton, Canada,America,82958,62832
+159,Johannesburgo, Sudafrica,África,82918,16370
+160,Dubai, Emiratos Árabes Unidos,Asia,82867,24866
+161,Guadalajara, Mexico,America,80656,17206
+162,Sapporo, Japon,Asia,80464,32446
+163,Bursa, Turquia,Europa,80063,21507
+164,Esmirna, Turquia,Europa,80061,19886
+165,Turin, Italia,Europa,78836,34284
+166,Providence, Estados Unidos,America,78114,48673
+167,Helsinki, Finlandia,Europa,77084,47547
+168,Tainan, Taiwan,Asia,76702,40376
+169,Xiamen, China,Asia,76061,20469
+170,Sendai, Japon,Asia,75317,33765
+171,Hiroshima, Japon,Asia,74932,36900
+172,Leeds, Reino Unido,Europa,74577,33355
+173,Nürnberg, Alemania,Europa,74508,44219
+174,Oslo, Noruega,Europa,74356,52802
+175,Nueva Orleans, Estados Unidos,America,74225,58762
+176,Salt Lake City, Estados Unidos,America,73836,63746
+177,Bufalo, Estados Unidos,America,72657,64090
+178,Bucarest, Rumania,Europa,72426,38635
+179,Richmond, Estados Unidos,America,71589,56933
+180,Ciudad Ho Chi Minh, Vietnam,Asia,71055,8660
+181,Nanning, China,Asia,70276,9716
+182,Hohhot, China,Asia,70074,23571
+183,Oklahoma City, Estados Unidos,America,70010,52195
+184,Bridgeport, Estados Unidos,America,69963,73855
+185,Zhongshan, China,Asia,68682,21295
+186,Rochester, Estados Unidos,America,67823,62516
+187,Anshan, China,Asia,67432,19190
+188,Liverpool, Reino Unido,Europa,65766,32121
+189,Memphis, Estados Unidos,America,65021,48235
+190,Raleigh, Estados Unidos,America,64352,51729
+191,Jacksonville, Estados Unidos,America,63789,45258
+192,Taiyuan, China,Asia,62969,14601
+193,Luxemburgo, Luxemburgo,Europa,62464,52703
+194,Louisville, Estados Unidos,America,62397,49072
+195,Porto Alegre, Brasil,America,62136,15078
+196,Calcuta, India,Asia,60447,4036
+197,Marseille, Francia,Europa,60282,36127
+198,Hannover, Alemania,Europa,59629,45287
+199,Urumchi, China,Asia,59575,22590
+200,Campinas, Brasil,America,59251,20759
+201,Ciudad del Cabo, Sudafrica,África,58863,14086
+202,Honolulu, Estados Unidos,America,58635,59007
+203,Chennai, India,Asia,58625,6469
+204,Shizuoka, Japon,Asia,58418,41472
+205,Albany, Estados Unidos,America,58397,66342
+206,Ottawa, Canada,America,58206,44149
+207,Curitiba, Brasil,America,57654,16980
+208,Venecia, Italia,Europa,57289,35190
+209,Okayama, Japon,Asia,56799,35198
+210,Glasgow, Reino Unido,Europa,56747,37753
+211,Basel, Suiza,Europa,56166,44400
+212,East Rand, Sudafrica,África,55337,17361
+213,Daegu, Corea del Sur,Asia,54458,22467
+214,Birmingham, Estados Unidos,America,54164,47304
+215,Macau, China,Asia,53888,93849
+216,Baton Rouge, Estados Unidos,America,53535,64750
+217,New Haven, Estados Unidos,America,53344,61782
+218,Almaty, Kazajistan,Asia,53099,35298
+219,Valencia, España,Europa,52748,28289
+220,Florencia, Italia,Europa,52536,35627
+221,Hamamatsu, Japon,Asia,52269,41470
+222,Caracas, Venezuela,America,51804,15890
+223,Portsmouth, Reino Unido,Europa,51641,37832
+224,Grand Rapids, Estados Unidos,America,51564,50398
+225,Omaha, Estados Unidos,America,51207,56551
+226,Nottingham, Reino Unido,Europa,50972,32159
+227,Bielefeld, Alemania,Europa,50483,42598
+228,Niigata, Japon,Asia,50271,36756
+229,Pretoria, Sudafrica,África,49948,16696
+230,Auckland, Nueva Zelanda,Oceania,49520,31766
+231,Durban, Sudafrica,África,48908,12884
+232,Tulsa, Estados Unidos,America,48595,50055
+233,Bremen, Alemania,Europa,47874,40132
+234,Bakersfield, Estados Unidos,America,47866,54793
+235,Bristol, Reino Unido,Europa,47659,42326
+236,Adelaide, Australia,Oceania,47433,36217
+237,Toulouse, Francia,Europa,47384,38900
+238,Oxnard, Estados Unidos,America,46260,54652
+239,Nice, Francia,Europa,45984,33392
+240,Braunschweig, Alemania,Europa,45543,44075
+241,Fresno, Estados Unidos,America,45508,47174
+242,Bangalore, India,Asia,45313,5051
+243,Worcester, Estados Unidos,America,44733,48082
+244,Newcastle, Reino Unido,Europa,44595,29978
+245,Linz, Austria,Europa,44551,47049
+246,Arnhem, Paises Bajos,Europa,44412,35340
+247,Ginebra, Suiza,Europa,43980,52753
+248,Sofia, Bulgaria,Europa,43838,33105
+249,Medellin, Colombia,America,43462,11466
+250,Porto, Portugal,Europa,42983,21674
+251,San Juan, Puerto Rico,America,42729,17361
+252,Kumamoto, Japon,Asia,41824,29656
+253,Madison, Estados Unidos,America,41803,65911
+254,Saarbrucken, Alemania,Europa,41684,36645
+255,Zhuhai, China,Asia,41338,25618
+256,Tucson, Estados Unidos,America,41216,41117
+257,Greensboro, Estados Unidos,America,40883,54719
+258,Little Rock, Estados Unidos,America,40662,55458
+259,Syracuse, Estados Unidos,America,40576,61244
+260,Recife, Brasil,America,40483,10359
+261,Haifa, Israel,Asia,40400,36571
+262,Bordeaux, Francia,Europa,40189,35235
+263,Hyderabad, India,Asia,40186,5063
+264,Gotemburgo, Suecia,Europa,40009,40331
+265,Albuquerque, Estados Unidos,America,39913,43817
+266,Sheffield, Reino Unido,Europa,39796,26518
+267,Daejeon, Corea del Sur,Asia,39614,25976
+268,Leipzig, Alemania,Europa,39592,32056
+269,Des Moines, Estados Unidos,America,39464,64752
+270,Shantou, China,Asia,38730,6979
+271,Bilbao, España,Europa,38518,38708
+272,Salvador, Brasil,America,38469,10070
+273,Hsinchu, Taiwan,Asia,38379,39817
+274,Knoxville, Estados Unidos,America,38347,44697
+275,Puebla, Mexico,America,38123,13538
+276,George Town, Malasia,Asia,37993,23079
+277,Casablanca, Marruecos,África,37888,9274
+278,Dayton, Estados Unidos,America,37510,46715
+279,Allentown, Estados Unidos,America,37297,44954
+280,Strasbourg, Francia,Europa,37282,36337
+281,Columbia, Estados Unidos,America,37174,46251
+282,Durham, Estados Unidos,America,36966,67953
+283,Gwangju, Corea del Sur,Asia,36660,24520
+284,Bolonia, Italia,Europa,36331,43978
+285,Cardiff, Reino Unido,Europa,36009,29674
+286,Sevilla, España,Europa,35796,24416
+287,Vitoria, Brasil,America,35632,19631
+288,Greenville, Estados Unidos,America,35617,41432
+289,Fortaleza, Brasil,America,35153,9003
+290,Harrisburg, Estados Unidos,America,35058,62509
+291,Kagoshima, Japon,Asia,34318,31764
+292,Quebec, Canada,America,33421,41907
+293,Cracovia, Polonia,Europa,33116,27670
+294,Akron, Estados Unidos,America,32849,46518
+295,Springfield, Estados Unidos,America,32817,52224
+296,El Paso, Estados Unidos,America,32659,38737
+297,Edimburgo, Reino Unido,Europa,32497,58437
+298,Winnipeg, Canada,America,32478,41719
+299,Alejandria, Egipto,África,32400,7100
+300,Nantes, Francia,Europa,32014,36011
+301,Karachi, Pakistan,Asia,164000,6000
+302,Lagos, Nigeria,África,33679,6055
